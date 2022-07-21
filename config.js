@@ -59,6 +59,6 @@ var config = {
     cake_fadein: "Most Special Cake Ever",
     light_candle: "Light Candle",
     wish_message: "Happy Birthday",
-    story: "A mesage for you",
+    story: "A message for you",
   },
 };
